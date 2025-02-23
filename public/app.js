@@ -2,7 +2,7 @@ import { showError } from './sweetAlert2.js';
 
 // API onfigurations
 const CONFIGS = {
-  apiKey: 'a4efc43d60c10dc65bbe0d6b08aa6531',
+  apiKey: '',
   baseUrl: 'https://api.openweathermap.org/data/2.5/weather'
 };
 
